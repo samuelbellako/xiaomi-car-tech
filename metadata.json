@@ -1,0 +1,6 @@
+{
+  "name": "Xiaomi Mi 20W Wireless Car Charger",
+  "description": "Distribuidor Autorizado de Cargadores de Auto Inteligentes de Xiaomi en Colombia, con pasarela de pagos, compras por WhatsApp y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
